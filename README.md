@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emmanuel Imwa 
 - 👀 I’m interested in Web develoment and Data science..
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me
 
 <!---
